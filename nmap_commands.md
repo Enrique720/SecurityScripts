@@ -3,7 +3,7 @@
 ---
 ## TCP SCAN
 
-nmap -p- -sS --open --min-rate 5000 <ip> -n -Pn -oG allPorts
+nmap -p- -sS --open --min-rate 5000 -vvv <ip> -n -Pn -oG allPorts
 
 ---
 ---
