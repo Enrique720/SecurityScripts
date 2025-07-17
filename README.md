@@ -14,9 +14,9 @@ A curated collection of scripts, command references, and resources for penetrati
   Basic XSS payloads for web application testing.
 - **web_assesment/SQLI.md**  
   Common SQL Injection payloads for vulnerability testing.
-- ** web_enumeration/Technology_profiler.md**  
+- **web_enumeration/Technology_profiler.md**  
   Tools and commands to identify web technologies and frameworks.
-- ** web_enumeration/Web_discovery.md**  
+- **web_enumeration/Web_discovery.md**  
   Tools and wordlists for web content and subdomain discovery.
 - **wifi/wifi_crack.md**  
   Steps and commands for WiFi handshake capture and password cracking.
